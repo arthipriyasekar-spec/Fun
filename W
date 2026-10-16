@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <header>
+        <h1>Indian Cuisines</h1>
+        <div>
+            <img src="images/cover.jpg">
+            <p id="description">The traditional food of India has been widely appreciated for its fabulous use of herbs
+                and
+                spices. Indian cuisine is known for its large assortment of dishes. The cooking style varies from region
+                to
+                region and is largely divided into South Indian & North Indian cuisine. India is quite famous for its
+                diverse multi cuisine available in a large number of restaurants and hotel resorts, which is reminiscent
+                of
+                unity in diversity.</p>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href="bengali-food">
+                    Bengali
+                </a>
+            </li>
+            <li>
+                <a href="gujarati-food">
+                    Gujarati
+                </a>
+            </li>
+            <li>
+                <a href="#mughalai-food">
+                    Mughlai
+                </a>
+            </li>
+            <li>
+                <a href="#punjabi-food">
+                    Punjabi
+                </a>
+            </li>
+            <li>
+                <a href="#south-indian cuisine">
+                    South Indian
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <main>
+        <section id="benglai-food">
+            <h2>Bengali Food</h2>
+            <div>
+                <img src="/images/bengali-food.jpg" width="300px" alt="bengali food">
+                <p>Bengali cuisine is appreciated for its fabulous use of panchphoron, a term used to refer to the five
+                    essential spices, namely mustard, fenugreek seed, cumin seed, aniseed, and black cumin seed. The
+                    specialty of Bengali food lies in the perfect blend of sweet and spicy flavors. </p>
+            </div>
+        </section>
+        <section id="gujarati-food">
+            <h2>Gujarati Food</h2>
+            <div>
+                <img src="/images/gujarati-food.jpeg" width="300px" alt="gujarati food">
+                <p>The traditional Gujarati food is primarily vegetarian and has a high nutritional value. The typical
+                    Gujarati thali consists of varied kinds of lip smacking dishes. Gujarati cuisine has so much to
+                    offer
+                    and each dish has an absolutely different cooking style.</p>
+            </div>
+        </section>
+        <section id="mughalai-food">
+            <h2>Mughlai Food</h2>
+            <div>
+                <img src="/images/muhglai-food.jpg" width="300px" alt="mughali food">
+                <p>Mughlai cuisine is one of the most popular cuisines, whose origin can be traced back to the times of
+                    Mughal
+                    Empire. Mughlai cuisine consists of the dishes that w
